@@ -1,0 +1,6 @@
+To open the website you need to 
+
+	-Double click index 
+		* if nothing happens - Right Click and select Open With....
+	-Open with google Chrome 
+	
